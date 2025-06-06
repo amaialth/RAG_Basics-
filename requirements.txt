@@ -1,0 +1,6 @@
+ipykernel
+langchain-ollama
+langchain-chroma
+pypdf
+langchain_community
+langchain-text-splitters
